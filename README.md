@@ -13,7 +13,14 @@ Poseo un sólido conocimiento de los estándares y reglamentos relacionados con 
 ## Tecnologías que domino
 
 Algunas de las tecnologías con las que me siento cómodo y que he utilizado en proyectos recientes incluyen:
-
+[](./imagenes/express.png)
+[](./imagenes/git.png)
+[](./imagenes/js.png)
+[](./imagenes/mongoDB.png)
+[](./imagenes/nodejs.jpg)
+[](./imagenes/postgresql.png)
+[](./imagenes/react.png)
+[](./imagenes/redux.png)
 - **Frontend**: HTML5, CSS3, Responsive Design, Bootstrap, Tailwind, Material UI, JavaScript, TypeScript, JQuery, AJAX, React, React Native, Redux.
 - **Backend**: Node.js, Express, Webpack, Testing (Jest).
 - **Bases de Datos**: SQL, PostgreSQL, MongoDB.
