@@ -21,11 +21,11 @@ Algunas de las tecnologías con las que me siento cómodo y que he utilizado en 
 [](./imagenes/postgresql.png)
 [](./imagenes/react.png)
 [](./imagenes/redux.png)
-- **Frontend**: HTML5, CSS3, Responsive Design, Bootstrap, Tailwind, Material UI, JavaScript, TypeScript, JQuery, AJAX, React, React Native, Redux.
-- **Backend**: Node.js, Express, Webpack, Testing (Jest), Python, Django, Django Rest Framework, Flask.
+- **Frontend**: HTML5, CSS3, Responsive Design, Bootstrap, Tailwind, Material UI, JavaScript, TypeScript, JQuery, AJAX, React, React Native, Redux, Nextjs, Zustand.
+- **Backend**: Node.js, Nest, Express, Webpack, Testing (Jest), Python, Django, Django Rest Framework, Flask.
 - **Bases de Datos**: SQL, PostgreSQL, MongoDB.
 - **Metodologías**: Scrum (Metodología Ágil).
-- **APIs**: REST API.
+- **Protocolos de Comunicacion**: REST API, WebSocket, GraphQL.
 
 ## Cualidades Profesionales
 
